@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amdre121222
-- 👀 I’m interested study prog
+- 👀 I’m interested study programming
 - 🌱 I’m currently learning ...
 
 
